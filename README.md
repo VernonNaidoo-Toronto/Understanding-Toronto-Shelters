@@ -1,5 +1,5 @@
-# Group Project - Toronto Shelter Data Analysis for UW Stats Course
-
+# Toronto Shelter Data Analysis
+# University of Waterloo - Statistics for Data Science
 ## Statistics for Data Science – Group 2 Proposal
 
 *Submitted 2020-07-13*
