@@ -14,7 +14,7 @@
 ---
 
 ### Table of Contents:
-- [Proposal (Approved)](#group-study-proposal)
+- [Proposal (Approved)](#group-2-study-proposal)
 - [Data Catalog](#data-catalog)
 - [Jupyter Notebooks](#jupyter-notebooks)
 
