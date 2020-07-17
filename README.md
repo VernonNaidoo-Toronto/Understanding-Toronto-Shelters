@@ -45,3 +45,8 @@ Our focus will be to make a hypothesis about a correlation in the dataset and te
 3.	Periods with extreme cold or precipitation will have a higher level of shelter usage.
 4.	Changes in availability of affordable housing over time can be correlated with similar changes in homelessness/shelter use.
 5.	Changes in measurable economic factors over time - such as employment, GDP per capita (* Toronto population), interest rates, home sales and poverty indices - can be correlated with measurable levels of homelessness, such as shelter occupancy.
+
+---
+---
+# Jupyter Notebooks:
+[MN HomelessShelter](https://github.com/VernonNaidoo-Toronto/Understanding-Toronto-Shelters/blob/master/MN%20HomelessShelter.ipynb)
