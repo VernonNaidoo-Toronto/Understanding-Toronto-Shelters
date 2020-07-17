@@ -1,20 +1,27 @@
 # Toronto Shelter Data Analysis
-
-## Group Study Proposal
-## Statistics for Data Science
-## University of Waterloo 
-
-*Submitted 2020-07-13*
-
-*Approval Received 2020-07-14*
-
-### Members (alphabetical order):
+### Final Project: Group 2
+### Statistics for Data Science, 
+### University of Waterloo, Summer 2020 Term
+---
+### Contributors (Alphabetical Order):
 -	Walid Gherwi
 -	Bryan Mallinson
 -	Steven McAvoy
 -	Vernon Naidoo
 -	Mahshad Najafi Ragheb
 -	Mohit Ramnani
+---
+### Table of Contents:
+- [Proposal (Approved)](#group-study-proposal)
+- [Data Catalog](#data-catalog)
+- [Jupyter Notebooks](#jupyter-notebooks)
+
+---
+# Group 2 Study Proposal
+
+*Proposal Submitted 2020-07-13*
+
+*Proposal Approved 2020-07-14*
 
 Our proposed topic is the occupancy and capacity of homeless shelters in Toronto, and what factors impact those measures.
 
@@ -47,6 +54,19 @@ Our focus will be to make a hypothesis about a correlation in the dataset and te
 5.	Changes in measurable economic factors over time - such as employment, GDP per capita (* Toronto population), interest rates, home sales and poverty indices - can be correlated with measurable levels of homelessness, such as shelter occupancy.
 
 ---
+# Data Catalog
+- Crime Data
+  - *[DATA SOURCE LINK REQUIRED!!!]()*
+  - [2014 - 2019 Toronto Crime Statistics](https://raw.githubusercontent.com/VernonNaidoo-Toronto/Understanding-Toronto-Shelters/master/Crime%20Data/MCI_2014_to_2019.csv)
+  
+- Shelter Data --- *[[link to data source]](https://open.toronto.ca/dataset/daily-shelter-occupancy/)*
+  - [2017 Shelter Use](https://raw.githubusercontent.com/VernonNaidoo-Toronto/Understanding-Toronto-Shelters/master/Shelter%20Data/daily-shelter-occupancy-2017-csv.csv)
+  - [2018 Shelter Use](https://raw.githubusercontent.com/VernonNaidoo-Toronto/Understanding-Toronto-Shelters/master/Shelter%20Data/daily-shelter-occupancy-2018-csv.csv)
+  - [2019 Shelter Use](https://raw.githubusercontent.com/VernonNaidoo-Toronto/Understanding-Toronto-Shelters/master/Shelter%20Data/daily-shelter-occupancy-2019-csv.csv)
+  
+- Weather Data
+  - *[DATA SOURCE LINK REQUIRED!!!]()*
+  - *[INSERT LINK TO RAW DATA FILE]*
 ---
 # Jupyter Notebooks:
-[MN HomelessShelter](https://github.com/VernonNaidoo-Toronto/Understanding-Toronto-Shelters/blob/master/MN%20HomelessShelter.ipynb)
+[MN HomelessShelter](https://raw.github.com/VernonNaidoo-Toronto/Understanding-Toronto-Shelters/master/MN%20HomelessShelter.ipynb)
