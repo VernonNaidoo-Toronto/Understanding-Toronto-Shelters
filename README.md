@@ -57,18 +57,20 @@ Our focus will be to make a hypothesis about a correlation in the dataset and te
 
 ---
 # Data Catalog
-### Crime Data --- *[DATA SOURCE LINK REQUIRED!!!]()*
+## Crime Data
+*[[Source: Toronto Police Service - Public Safety Data Portal]](https://data.torontopolice.on.ca/pages/catalogue)*
 
 - [2014 - 2019 Toronto Crime Statistics](https://raw.githubusercontent.com/VernonNaidoo-Toronto/Understanding-Toronto-Shelters/master/Crime%20Data/MCI_2014_to_2019.csv)
   
-### Shelter Data --- *[[link to data source]](https://open.toronto.ca/dataset/daily-shelter-occupancy/)*
+## Shelter Data
+*[[Source: Toronto Open Data Portal]](https://open.toronto.ca/dataset/daily-shelter-occupancy/)*
 
 - [2017 Shelter Use](https://raw.githubusercontent.com/VernonNaidoo-Toronto/Understanding-Toronto-Shelters/master/Shelter%20Data/daily-shelter-occupancy-2017-csv.csv)
 - [2018 Shelter Use](https://raw.githubusercontent.com/VernonNaidoo-Toronto/Understanding-Toronto-Shelters/master/Shelter%20Data/daily-shelter-occupancy-2018-csv.csv)
 - [2019 Shelter Use](https://raw.githubusercontent.com/VernonNaidoo-Toronto/Understanding-Toronto-Shelters/master/Shelter%20Data/daily-shelter-occupancy-2019-csv.csv)
 
-### Weather Data ---*[DATA SOURCE LINK REQUIRED!!!]()*
-
+## Weather Data
+*[DATA SOURCE LINK REQUIRED!!!]()*
 - *[INSERT LINK TO RAW DATA FILE]*
 
 ---
